@@ -1,19 +1,16 @@
-# LISHE WAFFLES — Static Menu Website
+# LISHE WAFFLES — Menu Website
 
-A static, mobile-friendly menu card for GitHub Pages.
+A static, mobile-friendly menu card for LISHE WAFFLES.
 
-## Files
-- `index.html` — menu content and layout
-- `style.css` — design and responsive styling
-- `assets/logo.jpg` — supplied LISHE WAFFLES logo
-- `assets/waffles/` — waffle images extracted from the supplied Waffles PDF
-- `assets/pancakes/` — pancake/shake images extracted from the supplied PanCake PDF
+## Sections
+- Waffles
+- Pancakes
+- Boba Shakes
+
+No prices are displayed. Product names, descriptions and images are based on the supplied menu PDFs.
+
+## Run locally
+Open `index.html` in a browser.
 
 ## GitHub Pages
-1. Create a GitHub repository.
-2. Copy all files/folders into the repository root.
-3. Commit and push to `main`.
-4. Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
-5. Open the generated GitHub Pages URL.
-
-No prices are included in this version.
+Push the contents of this folder to a GitHub repository and enable GitHub Pages from the `main` branch and `/ (root)`.
