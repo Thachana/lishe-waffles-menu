@@ -14,3 +14,6 @@ Open `index.html` in a browser.
 
 ## GitHub Pages
 Push the contents of this folder to a GitHub repository and enable GitHub Pages from the `main` branch and `/ (root)`.
+
+
+Special item added: LISHE Waffles Special — Stick Waffle with choice of toppings.
